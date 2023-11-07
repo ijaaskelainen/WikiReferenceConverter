@@ -1,6 +1,6 @@
 <html>
 <body>
-<form action="convert-references.php" method="post">
+<form action="WikiReferenceConverter.php" method="post">
 <div><input type="text" name="content"></div>
 <div><input type="submit"></div>
 </form>
